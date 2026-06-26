@@ -1,0 +1,1809 @@
+Bioseq-set ::= {
+  class not-set ,
+  seq-set {
+    seq {
+      id {
+        swissprot {
+          accession "Q9C9T3" ,
+          release "reviewed" ,
+          version 1 } ,
+        gi 75169777 } ,
+      descr {
+        title "RecName: Full=Mitotic-spindle organizing protein 1A; AltName:
+ Full=GCP3-interacting protein 2; Short=AtGIP2; AltName: Full=Mitotic-spindle
+ organizing protein associated with a ring of gamma-tubulin 1A; Short=AtGIP1A" ,
+        source {
+          org {
+            taxname "Arabidopsis thaliana" ,
+            common "thale cress" ,
+            db {
+              {
+                db "taxon" ,
+                tag
+                  id 3702 } } ,
+            orgname {
+              name
+                binomial {
+                  genus "Arabidopsis" ,
+                  species "thaliana" } ,
+              lineage "Eukaryota; Viridiplantae; Streptophyta; Embryophyta;
+ Tracheophyta; Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+ Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae;
+ Arabidopsis" ,
+              gcode 1 ,
+              mgcode 1 ,
+              div "PLN" } } } ,
+        molinfo {
+          biomol peptide ,
+          completeness complete } ,
+        pub {
+          pub {
+            gen {
+              serial-number 1 } ,
+            pmid 11130712 ,
+            article {
+              title {
+                name "Sequence and analysis of chromosome 1 of the plant
+ Arabidopsis thaliana." } ,
+              authors {
+                names
+                  std {
+                    {
+                      name
+                        name {
+                          last "Theologis" ,
+                          initials "A." } ,
+                      affil
+                        str "Plant Gene Expression Center/USDA-U.C. Berkley,
+ Albany, California 94710, USA. theo@nature.berkeley.edu" } ,
+                    {
+                      name
+                        name {
+                          last "Ecker" ,
+                          initials "J.R." } } ,
+                    {
+                      name
+                        name {
+                          last "Palm" ,
+                          initials "C.J." } } ,
+                    {
+                      name
+                        name {
+                          last "Federspiel" ,
+                          initials "N.A." } } ,
+                    {
+                      name
+                        name {
+                          last "Kaul" ,
+                          initials "S." } } ,
+                    {
+                      name
+                        name {
+                          last "White" ,
+                          initials "O." } } ,
+                    {
+                      name
+                        name {
+                          last "Alonso" ,
+                          initials "J." } } ,
+                    {
+                      name
+                        name {
+                          last "Altafi" ,
+                          initials "H." } } ,
+                    {
+                      name
+                        name {
+                          last "Araujo" ,
+                          initials "R." } } ,
+                    {
+                      name
+                        name {
+                          last "Bowman" ,
+                          initials "C.L." } } ,
+                    {
+                      name
+                        name {
+                          last "Brooks" ,
+                          initials "S.Y." } } ,
+                    {
+                      name
+                        name {
+                          last "Buehler" ,
+                          initials "E." } } ,
+                    {
+                      name
+                        name {
+                          last "Chan" ,
+                          initials "A." } } ,
+                    {
+                      name
+                        name {
+                          last "Chao" ,
+                          initials "Q." } } ,
+                    {
+                      name
+                        name {
+                          last "Chen" ,
+                          initials "H." } } ,
+                    {
+                      name
+                        name {
+                          last "Cheuk" ,
+                          initials "R.F." } } ,
+                    {
+                      name
+                        name {
+                          last "Chin" ,
+                          initials "C.W." } } ,
+                    {
+                      name
+                        name {
+                          last "Chung" ,
+                          initials "M.K." } } ,
+                    {
+                      name
+                        name {
+                          last "Conn" ,
+                          initials "L." } } ,
+                    {
+                      name
+                        name {
+                          last "Conway" ,
+                          initials "A.B." } } ,
+                    {
+                      name
+                        name {
+                          last "Conway" ,
+                          initials "A.R." } } ,
+                    {
+                      name
+                        name {
+                          last "Creasy" ,
+                          initials "T.H." } } ,
+                    {
+                      name
+                        name {
+                          last "Dewar" ,
+                          initials "K." } } ,
+                    {
+                      name
+                        name {
+                          last "Dunn" ,
+                          initials "P." } } ,
+                    {
+                      name
+                        name {
+                          last "Etgu" ,
+                          initials "P." } } ,
+                    {
+                      name
+                        name {
+                          last "Feldblyum" ,
+                          initials "T.V." } } ,
+                    {
+                      name
+                        name {
+                          last "Feng" ,
+                          initials "J." } } ,
+                    {
+                      name
+                        name {
+                          last "Fong" ,
+                          initials "B." } } ,
+                    {
+                      name
+                        name {
+                          last "Fujii" ,
+                          initials "C.Y." } } ,
+                    {
+                      name
+                        name {
+                          last "Gill" ,
+                          initials "J.E." } } ,
+                    {
+                      name
+                        name {
+                          last "Goldsmith" ,
+                          initials "A.D." } } ,
+                    {
+                      name
+                        name {
+                          last "Haas" ,
+                          initials "B." } } ,
+                    {
+                      name
+                        name {
+                          last "Hansen" ,
+                          initials "N.F." } } ,
+                    {
+                      name
+                        name {
+                          last "Hughes" ,
+                          initials "B." } } ,
+                    {
+                      name
+                        name {
+                          last "Huizar" ,
+                          initials "L." } } ,
+                    {
+                      name
+                        name {
+                          last "Hunter" ,
+                          initials "J.L." } } ,
+                    {
+                      name
+                        name {
+                          last "Jenkins" ,
+                          initials "J." } } ,
+                    {
+                      name
+                        name {
+                          last "Johnson-Hopson" ,
+                          initials "C." } } ,
+                    {
+                      name
+                        name {
+                          last "Khan" ,
+                          initials "S." } } ,
+                    {
+                      name
+                        name {
+                          last "Khaykin" ,
+                          initials "E." } } ,
+                    {
+                      name
+                        name {
+                          last "Kim" ,
+                          initials "C.J." } } ,
+                    {
+                      name
+                        name {
+                          last "Koo" ,
+                          initials "H.L." } } ,
+                    {
+                      name
+                        name {
+                          last "Kremenetskaia" ,
+                          initials "I." } } ,
+                    {
+                      name
+                        name {
+                          last "Kurtz" ,
+                          initials "D.B." } } ,
+                    {
+                      name
+                        name {
+                          last "Kwan" ,
+                          initials "A." } } ,
+                    {
+                      name
+                        name {
+                          last "Lam" ,
+                          initials "B." } } ,
+                    {
+                      name
+                        name {
+                          last "Langin-Hooper" ,
+                          initials "S." } } ,
+                    {
+                      name
+                        name {
+                          last "Lee" ,
+                          initials "A." } } ,
+                    {
+                      name
+                        name {
+                          last "Lee" ,
+                          initials "J.M." } } ,
+                    {
+                      name
+                        name {
+                          last "Lenz" ,
+                          initials "C.A." } } ,
+                    {
+                      name
+                        name {
+                          last "Li" ,
+                          initials "J.H." } } ,
+                    {
+                      name
+                        name {
+                          last "Li" ,
+                          initials "Y." } } ,
+                    {
+                      name
+                        name {
+                          last "Lin" ,
+                          initials "X." } } ,
+                    {
+                      name
+                        name {
+                          last "Liu" ,
+                          initials "S.X." } } ,
+                    {
+                      name
+                        name {
+                          last "Liu" ,
+                          initials "Z.A." } } ,
+                    {
+                      name
+                        name {
+                          last "Luros" ,
+                          initials "J.S." } } ,
+                    {
+                      name
+                        name {
+                          last "Maiti" ,
+                          initials "R." } } ,
+                    {
+                      name
+                        name {
+                          last "Marziali" ,
+                          initials "A." } } ,
+                    {
+                      name
+                        name {
+                          last "Militscher" ,
+                          initials "J." } } ,
+                    {
+                      name
+                        name {
+                          last "Miranda" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Nguyen" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Nierman" ,
+                          initials "W.C." } } ,
+                    {
+                      name
+                        name {
+                          last "Osborne" ,
+                          initials "B.I." } } ,
+                    {
+                      name
+                        name {
+                          last "Pai" ,
+                          initials "G." } } ,
+                    {
+                      name
+                        name {
+                          last "Peterson" ,
+                          initials "J." } } ,
+                    {
+                      name
+                        name {
+                          last "Pham" ,
+                          initials "P.K." } } ,
+                    {
+                      name
+                        name {
+                          last "Rizzo" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Rooney" ,
+                          initials "T." } } ,
+                    {
+                      name
+                        name {
+                          last "Rowley" ,
+                          initials "D." } } ,
+                    {
+                      name
+                        name {
+                          last "Sakano" ,
+                          initials "H." } } ,
+                    {
+                      name
+                        name {
+                          last "Salzberg" ,
+                          initials "S.L." } } ,
+                    {
+                      name
+                        name {
+                          last "Schwartz" ,
+                          initials "J.R." } } ,
+                    {
+                      name
+                        name {
+                          last "Shinn" ,
+                          initials "P." } } ,
+                    {
+                      name
+                        name {
+                          last "Southwick" ,
+                          initials "A.M." } } ,
+                    {
+                      name
+                        name {
+                          last "Sun" ,
+                          initials "H." } } ,
+                    {
+                      name
+                        name {
+                          last "Tallon" ,
+                          initials "L.J." } } ,
+                    {
+                      name
+                        name {
+                          last "Tambunga" ,
+                          initials "G." } } ,
+                    {
+                      name
+                        name {
+                          last "Toriumi" ,
+                          initials "M.J." } } ,
+                    {
+                      name
+                        name {
+                          last "Town" ,
+                          initials "C.D." } } ,
+                    {
+                      name
+                        name {
+                          last "Utterback" ,
+                          initials "T." } } ,
+                    {
+                      name
+                        name {
+                          last "Van Aken" ,
+                          initials "S." } } ,
+                    {
+                      name
+                        name {
+                          last "Vaysberg" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Vysotskaia" ,
+                          initials "V.S." } } ,
+                    {
+                      name
+                        name {
+                          last "Walker" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Wu" ,
+                          initials "D." } } ,
+                    {
+                      name
+                        name {
+                          last "Yu" ,
+                          initials "G." } } ,
+                    {
+                      name
+                        name {
+                          last "Fraser" ,
+                          initials "C.M." } } ,
+                    {
+                      name
+                        name {
+                          last "Venter" ,
+                          initials "J.C." } } ,
+                    {
+                      name
+                        name {
+                          last "Davis" ,
+                          initials "R.W." } } } } ,
+              from
+                journal {
+                  title {
+                    iso-jta "Nature" ,
+                    ml-jta "Nature" ,
+                    issn "0028-0836" ,
+                    name "Nature" } ,
+                  imp {
+                    date
+                      std {
+                        year 2000 ,
+                        month 12 ,
+                        day 14 } ,
+                    volume "408" ,
+                    issue "6814" ,
+                    pages "816-820" ,
+                    language "eng" ,
+                    pubstatus ppublish ,
+                    history {
+                      {
+                        pubstatus pubmed ,
+                        date
+                          std {
+                            year 2000 ,
+                            month 12 ,
+                            day 29 ,
+                            hour 11 ,
+                            minute 0 } } ,
+                      {
+                        pubstatus medline ,
+                        date
+                          std {
+                            year 2001 ,
+                            month 2 ,
+                            day 28 ,
+                            hour 10 ,
+                            minute 1 } } } } } ,
+              ids {
+                pubmed 11130712 ,
+                doi "10.1038/35048500" } } } ,
+          comment "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].;~STRAIN=cv.
+ Columbia" } ,
+        pub {
+          pub {
+            gen {
+              serial-number 2 } ,
+            pmid 27862469 ,
+            article {
+              title {
+                name "Araport11: a complete reannotation of the Arabidopsis
+ thaliana reference genome." } ,
+              authors {
+                names
+                  std {
+                    {
+                      name
+                        name {
+                          last "Cheng" ,
+                          initials "C.Y." } ,
+                      affil
+                        str "J. Craig Venter Institute, 9714 Medical Center
+ Drive, Rockville, MD, 20850, USA." } ,
+                    {
+                      name
+                        name {
+                          last "Krishnakumar" ,
+                          initials "V." } ,
+                      affil
+                        str "J. Craig Venter Institute, 9714 Medical Center
+ Drive, Rockville, MD, 20850, USA." } ,
+                    {
+                      name
+                        name {
+                          last "Chan" ,
+                          initials "A.P." } ,
+                      affil
+                        str "J. Craig Venter Institute, 9714 Medical Center
+ Drive, Rockville, MD, 20850, USA." } ,
+                    {
+                      name
+                        name {
+                          last "Thibaud-Nissen" ,
+                          initials "F." } ,
+                      affil
+                        str "National Center for Biotechnology Information, US
+ National Library of Medicine, National Institutes of Health, Bethesda, MD,
+ 20894, USA." } ,
+                    {
+                      name
+                        name {
+                          last "Schobel" ,
+                          initials "S." } ,
+                      affil
+                        str "J. Craig Venter Institute, 9714 Medical Center
+ Drive, Rockville, MD, 20850, USA." } ,
+                    {
+                      name
+                        name {
+                          last "Town" ,
+                          initials "C.D." } ,
+                      affil
+                        str "J. Craig Venter Institute, 9714 Medical Center
+ Drive, Rockville, MD, 20850, USA." } } } ,
+              from
+                journal {
+                  title {
+                    iso-jta "Plant J" ,
+                    ml-jta "Plant J" ,
+                    issn "1365-313X" ,
+                    name "The Plant journal : for cell and molecular biology" } ,
+                  imp {
+                    date
+                      std {
+                        year 2017 ,
+                        month 2 } ,
+                    volume "89" ,
+                    issue "4" ,
+                    pages "789-804" ,
+                    language "eng" ,
+                    pubstatus ppublish ,
+                    history {
+                      {
+                        pubstatus received ,
+                        date
+                          std {
+                            year 2016 ,
+                            month 7 ,
+                            day 27 } } ,
+                      {
+                        pubstatus revised ,
+                        date
+                          std {
+                            year 2016 ,
+                            month 10 ,
+                            day 27 } } ,
+                      {
+                        pubstatus accepted ,
+                        date
+                          std {
+                            year 2016 ,
+                            month 11 ,
+                            day 3 } } ,
+                      {
+                        pubstatus pubmed ,
+                        date
+                          std {
+                            year 2016 ,
+                            month 11 ,
+                            day 20 ,
+                            hour 6 ,
+                            minute 0 } } ,
+                      {
+                        pubstatus medline ,
+                        date
+                          std {
+                            year 2017 ,
+                            month 11 ,
+                            day 29 ,
+                            hour 6 ,
+                            minute 0 } } } } } ,
+              ids {
+                pubmed 27862469 ,
+                doi "10.1111/tpj.13415" ,
+                other {
+                  db "ELocationID doi" ,
+                  tag
+                    str "10.1111/tpj.13415" } } } } ,
+          comment "GENOME REANNOTATION.;~STRAIN=cv. Columbia" } ,
+        pub {
+          pub {
+            gen {
+              serial-number 3 } ,
+            pmid 14593172 ,
+            article {
+              title {
+                name "Empirical analysis of transcriptional activity in the
+ Arabidopsis genome." } ,
+              authors {
+                names
+                  std {
+                    {
+                      name
+                        name {
+                          last "Yamada" ,
+                          initials "K." } ,
+                      affil
+                        str "Plant Gene Expression Center, Albany, CA 94710,
+ USA." } ,
+                    {
+                      name
+                        name {
+                          last "Lim" ,
+                          initials "J." } } ,
+                    {
+                      name
+                        name {
+                          last "Dale" ,
+                          initials "J.M." } } ,
+                    {
+                      name
+                        name {
+                          last "Chen" ,
+                          initials "H." } } ,
+                    {
+                      name
+                        name {
+                          last "Shinn" ,
+                          initials "P." } } ,
+                    {
+                      name
+                        name {
+                          last "Palm" ,
+                          initials "C.J." } } ,
+                    {
+                      name
+                        name {
+                          last "Southwick" ,
+                          initials "A.M." } } ,
+                    {
+                      name
+                        name {
+                          last "Wu" ,
+                          initials "H.C." } } ,
+                    {
+                      name
+                        name {
+                          last "Kim" ,
+                          initials "C." } } ,
+                    {
+                      name
+                        name {
+                          last "Nguyen" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Pham" ,
+                          initials "P." } } ,
+                    {
+                      name
+                        name {
+                          last "Cheuk" ,
+                          initials "R." } } ,
+                    {
+                      name
+                        name {
+                          last "Karlin-Newmann" ,
+                          initials "G." } } ,
+                    {
+                      name
+                        name {
+                          last "Liu" ,
+                          initials "S.X." } } ,
+                    {
+                      name
+                        name {
+                          last "Lam" ,
+                          initials "B." } } ,
+                    {
+                      name
+                        name {
+                          last "Sakano" ,
+                          initials "H." } } ,
+                    {
+                      name
+                        name {
+                          last "Wu" ,
+                          initials "T." } } ,
+                    {
+                      name
+                        name {
+                          last "Yu" ,
+                          initials "G." } } ,
+                    {
+                      name
+                        name {
+                          last "Miranda" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Quach" ,
+                          initials "H.L." } } ,
+                    {
+                      name
+                        name {
+                          last "Tripp" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Chang" ,
+                          initials "C.H." } } ,
+                    {
+                      name
+                        name {
+                          last "Lee" ,
+                          initials "J.M." } } ,
+                    {
+                      name
+                        name {
+                          last "Toriumi" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Chan" ,
+                          initials "M.M." } } ,
+                    {
+                      name
+                        name {
+                          last "Tang" ,
+                          initials "C.C." } } ,
+                    {
+                      name
+                        name {
+                          last "Onodera" ,
+                          initials "C.S." } } ,
+                    {
+                      name
+                        name {
+                          last "Deng" ,
+                          initials "J.M." } } ,
+                    {
+                      name
+                        name {
+                          last "Akiyama" ,
+                          initials "K." } } ,
+                    {
+                      name
+                        name {
+                          last "Ansari" ,
+                          initials "Y." } } ,
+                    {
+                      name
+                        name {
+                          last "Arakawa" ,
+                          initials "T." } } ,
+                    {
+                      name
+                        name {
+                          last "Banh" ,
+                          initials "J." } } ,
+                    {
+                      name
+                        name {
+                          last "Banno" ,
+                          initials "F." } } ,
+                    {
+                      name
+                        name {
+                          last "Bowser" ,
+                          initials "L." } } ,
+                    {
+                      name
+                        name {
+                          last "Brooks" ,
+                          initials "S." } } ,
+                    {
+                      name
+                        name {
+                          last "Carninci" ,
+                          initials "P." } } ,
+                    {
+                      name
+                        name {
+                          last "Chao" ,
+                          initials "Q." } } ,
+                    {
+                      name
+                        name {
+                          last "Choy" ,
+                          initials "N." } } ,
+                    {
+                      name
+                        name {
+                          last "Enju" ,
+                          initials "A." } } ,
+                    {
+                      name
+                        name {
+                          last "Goldsmith" ,
+                          initials "A.D." } } ,
+                    {
+                      name
+                        name {
+                          last "Gurjal" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Hansen" ,
+                          initials "N.F." } } ,
+                    {
+                      name
+                        name {
+                          last "Hayashizaki" ,
+                          initials "Y." } } ,
+                    {
+                      name
+                        name {
+                          last "Johnson-Hopson" ,
+                          initials "C." } } ,
+                    {
+                      name
+                        name {
+                          last "Hsuan" ,
+                          initials "V.W." } } ,
+                    {
+                      name
+                        name {
+                          last "Iida" ,
+                          initials "K." } } ,
+                    {
+                      name
+                        name {
+                          last "Karnes" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Khan" ,
+                          initials "S." } } ,
+                    {
+                      name
+                        name {
+                          last "Koesema" ,
+                          initials "E." } } ,
+                    {
+                      name
+                        name {
+                          last "Ishida" ,
+                          initials "J." } } ,
+                    {
+                      name
+                        name {
+                          last "Jiang" ,
+                          initials "P.X." } } ,
+                    {
+                      name
+                        name {
+                          last "Jones" ,
+                          initials "T." } } ,
+                    {
+                      name
+                        name {
+                          last "Kawai" ,
+                          initials "J." } } ,
+                    {
+                      name
+                        name {
+                          last "Kamiya" ,
+                          initials "A." } } ,
+                    {
+                      name
+                        name {
+                          last "Meyers" ,
+                          initials "C." } } ,
+                    {
+                      name
+                        name {
+                          last "Nakajima" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Narusaka" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Seki" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Sakurai" ,
+                          initials "T." } } ,
+                    {
+                      name
+                        name {
+                          last "Satou" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Tamse" ,
+                          initials "R." } } ,
+                    {
+                      name
+                        name {
+                          last "Vaysberg" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Wallender" ,
+                          initials "E.K." } } ,
+                    {
+                      name
+                        name {
+                          last "Wong" ,
+                          initials "C." } } ,
+                    {
+                      name
+                        name {
+                          last "Yamamura" ,
+                          initials "Y." } } ,
+                    {
+                      name
+                        name {
+                          last "Yuan" ,
+                          initials "S." } } ,
+                    {
+                      name
+                        name {
+                          last "Shinozaki" ,
+                          initials "K." } } ,
+                    {
+                      name
+                        name {
+                          last "Davis" ,
+                          initials "R.W." } } ,
+                    {
+                      name
+                        name {
+                          last "Theologis" ,
+                          initials "A." } } ,
+                    {
+                      name
+                        name {
+                          last "Ecker" ,
+                          initials "J.R." } } } } ,
+              from
+                journal {
+                  title {
+                    iso-jta "Science" ,
+                    ml-jta "Science" ,
+                    issn "1095-9203" ,
+                    name "Science (New York, N.Y.)" } ,
+                  imp {
+                    date
+                      std {
+                        year 2003 ,
+                        month 10 ,
+                        day 31 } ,
+                    volume "302" ,
+                    issue "5646" ,
+                    pages "842-846" ,
+                    language "eng" ,
+                    pubstatus ppublish ,
+                    history {
+                      {
+                        pubstatus pubmed ,
+                        date
+                          std {
+                            year 2003 ,
+                            month 11 ,
+                            day 1 ,
+                            hour 5 ,
+                            minute 0 } } ,
+                      {
+                        pubstatus medline ,
+                        date
+                          std {
+                            year 2003 ,
+                            month 12 ,
+                            day 10 ,
+                            hour 5 ,
+                            minute 0 } } } } } ,
+              ids {
+                pubmed 14593172 ,
+                doi "10.1126/science.1088305" ,
+                pii "302/5646/842" } } } ,
+          comment "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].;~STRAIN=cv.
+ Columbia" } ,
+        pub {
+          pub {
+            gen {
+              serial-number 4 } ,
+            sub {
+              authors {
+                names
+                  std {
+                    {
+                      name
+                        name {
+                          last "Brover" ,
+                          initials "V.V." } } ,
+                    {
+                      name
+                        name {
+                          last "Troukhan" ,
+                          initials "M.E." } } ,
+                    {
+                      name
+                        name {
+                          last "Alexandrov" ,
+                          initials "N.A." } } ,
+                    {
+                      name
+                        name {
+                          last "Lu" ,
+                          initials "Y.-P." } } ,
+                    {
+                      name
+                        name {
+                          last "Flavell" ,
+                          initials "R.B." } } ,
+                    {
+                      name
+                        name {
+                          last "Feldmann" ,
+                          initials "K.A." } } } ,
+                affil
+                  str "to the EMBL/GenBank/DDBJ databases" } ,
+              medium other ,
+              date
+                std {
+                  year 2002 ,
+                  month 3 } } } ,
+          comment "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]." } ,
+        pub {
+          pub {
+            gen {
+              serial-number 5 } ,
+            pmid 22427335 ,
+            article {
+              title {
+                name "The GCP3-interacting proteins GIP1 and GIP2 are required
+ for gamma-tubulin complex protein localization, spindle integrity, and
+ chromosomal stability." } ,
+              authors {
+                names
+                  std {
+                    {
+                      name
+                        name {
+                          last "Janski" ,
+                          initials "N." } ,
+                      affil
+                        str "Institut de Biologie Moleculaire des Plantes,
+ Centre National de la Recherche Scientifique, Unite Propre de Recherche 2357,
+ Conventione avec l'Universite de Strasbourg, 67084 Strasbourg, France." } ,
+                    {
+                      name
+                        name {
+                          last "Masoud" ,
+                          initials "K." } } ,
+                    {
+                      name
+                        name {
+                          last "Batzenschlager" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Herzog" ,
+                          initials "E." } } ,
+                    {
+                      name
+                        name {
+                          last "Evrard" ,
+                          initials "J.L." } } ,
+                    {
+                      name
+                        name {
+                          last "Houlne" ,
+                          initials "G." } } ,
+                    {
+                      name
+                        name {
+                          last "Bourge" ,
+                          initials "M." } } ,
+                    {
+                      name
+                        name {
+                          last "Chaboute" ,
+                          initials "M.E." } } ,
+                    {
+                      name
+                        name {
+                          last "Schmit" ,
+                          initials "A.C." } } } } ,
+              from
+                journal {
+                  title {
+                    iso-jta "Plant Cell" ,
+                    ml-jta "Plant Cell" ,
+                    issn "1532-298X" ,
+                    name "The Plant cell" } ,
+                  imp {
+                    date
+                      std {
+                        year 2012 ,
+                        month 3 } ,
+                    volume "24" ,
+                    issue "3" ,
+                    pages "1171-1187" ,
+                    language "eng" ,
+                    pubstatus ppublish ,
+                    history {
+                      {
+                        pubstatus pubmed ,
+                        date
+                          std {
+                            year 2012 ,
+                            month 3 ,
+                            day 20 ,
+                            hour 6 ,
+                            minute 0 } } ,
+                      {
+                        pubstatus medline ,
+                        date
+                          std {
+                            year 2012 ,
+                            month 10 ,
+                            day 4 ,
+                            hour 6 ,
+                            minute 0 } } } } } ,
+              ids {
+                pubmed 22427335 ,
+                other {
+                  db "pmc" ,
+                  tag
+                    str "PMC3336128" } ,
+                doi "10.1105/tpc.111.094904" ,
+                pii "tpc.111.094904" ,
+                other {
+                  db "ELocationID doi" ,
+                  tag
+                    str "10.1105/tpc.111.094904" } } } } ,
+          comment "SUBUNIT, INTERACTION WITH GCP3, TISSUE SPECIFICITY,
+ SUBCELLULAR LOCATION, AND DISRUPTION PHENOTYPE." } ,
+        pub {
+          pub {
+            gen {
+              serial-number 6 } ,
+            pmid 22404201 ,
+            article {
+              title {
+                name "Arabidopsis GCP3-interacting protein 1/MOZART 1 is an
+ integral component of the gamma-tubulin-containing microtubule nucleating
+ complex." } ,
+              authors {
+                names
+                  std {
+                    {
+                      name
+                        name {
+                          last "Nakamura" ,
+                          initials "M." } ,
+                      affil
+                        str "Graduate School of Biological Sciences, Nara
+ Institute of Science and Technology, Ikoma, Nara 630-0192, Japan." } ,
+                    {
+                      name
+                        name {
+                          last "Yagi" ,
+                          initials "N." } } ,
+                    {
+                      name
+                        name {
+                          last "Kato" ,
+                          initials "T." } } ,
+                    {
+                      name
+                        name {
+                          last "Fujita" ,
+                          initials "S." } } ,
+                    {
+                      name
+                        name {
+                          last "Kawashima" ,
+                          initials "N." } } ,
+                    {
+                      name
+                        name {
+                          last "Ehrhardt" ,
+                          initials "D.W." } } ,
+                    {
+                      name
+                        name {
+                          last "Hashimoto" ,
+                          initials "T." } } } } ,
+              from
+                journal {
+                  title {
+                    iso-jta "Plant J" ,
+                    ml-jta "Plant J" ,
+                    issn "1365-313X" ,
+                    name "The Plant journal : for cell and molecular biology" } ,
+                  imp {
+                    date
+                      std {
+                        year 2012 ,
+                        month 7 } ,
+                    volume "71" ,
+                    issue "2" ,
+                    pages "216-225" ,
+                    language "eng" ,
+                    pubstatus ppublish ,
+                    history {
+                      {
+                        pubstatus pubmed ,
+                        date
+                          std {
+                            year 2012 ,
+                            month 3 ,
+                            day 13 ,
+                            hour 6 ,
+                            minute 0 } } ,
+                      {
+                        pubstatus medline ,
+                        date
+                          std {
+                            year 2014 ,
+                            month 8 ,
+                            day 20 ,
+                            hour 6 ,
+                            minute 0 } } } } } ,
+              ids {
+                pubmed 22404201 ,
+                doi "10.1111/j.1365-313X.2012.04988.x" ,
+                other {
+                  db "ELocationID doi" ,
+                  tag
+                    str "10.1111/j.1365-313X.2012.04988.x" } } } } ,
+          comment "DISRUPTION PHENOTYPE, SUBUNIT, INTERACTION WITH GCP3,
+ SUBCELLULAR LOCATION, AND TISSUE SPECIFICITY." } ,
+        pub {
+          pub {
+            gen {
+              serial-number 7 } ,
+            pmid 24348487 ,
+            article {
+              title {
+                name "The GIP gamma-tubulin complex-associated proteins are
+ involved in nuclear architecture in Arabidopsis thaliana." } ,
+              authors {
+                names
+                  std {
+                    {
+                      name
+                        name {
+                          last "Batzenschlager" ,
+                          initials "M." } ,
+                      affil
+                        str "Centre National de la Recherche Scientifique,
+ Institut de Biologie Moleculaire des Plantes, UPR 2357, Conventionne avec
+ l'Universite de Strasbourg Strasbourg, France." } ,
+                    {
+                      name
+                        name {
+                          last "Masoud" ,
+                          initials "K." } ,
+                      affil
+                        str "Centre National de la Recherche Scientifique,
+ Institut de Biologie Moleculaire des Plantes, UPR 2357, Conventionne avec
+ l'Universite de Strasbourg Strasbourg, France." } ,
+                    {
+                      name
+                        name {
+                          last "Janski" ,
+                          initials "N." } ,
+                      affil
+                        str "Centre National de la Recherche Scientifique,
+ Institut de Biologie Moleculaire des Plantes, UPR 2357, Conventionne avec
+ l'Universite de Strasbourg Strasbourg, France." } ,
+                    {
+                      name
+                        name {
+                          last "Houlne" ,
+                          initials "G." } ,
+                      affil
+                        str "Centre National de la Recherche Scientifique,
+ Institut de Biologie Moleculaire des Plantes, UPR 2357, Conventionne avec
+ l'Universite de Strasbourg Strasbourg, France." } ,
+                    {
+                      name
+                        name {
+                          last "Herzog" ,
+                          initials "E." } ,
+                      affil
+                        str "Centre National de la Recherche Scientifique,
+ Institut de Biologie Moleculaire des Plantes, UPR 2357, Conventionne avec
+ l'Universite de Strasbourg Strasbourg, France." } ,
+                    {
+                      name
+                        name {
+                          last "Evrard" ,
+                          initials "J.L." } ,
+                      affil
+                        str "Centre National de la Recherche Scientifique,
+ Institut de Biologie Moleculaire des Plantes, UPR 2357, Conventionne avec
+ l'Universite de Strasbourg Strasbourg, France." } ,
+                    {
+                      name
+                        name {
+                          last "Baumberger" ,
+                          initials "N." } ,
+                      affil
+                        str "Centre National de la Recherche Scientifique,
+ Institut de Biologie Moleculaire des Plantes, UPR 2357, Conventionne avec
+ l'Universite de Strasbourg Strasbourg, France." } ,
+                    {
+                      name
+                        name {
+                          last "Erhardt" ,
+                          initials "M." } ,
+                      affil
+                        str "Centre National de la Recherche Scientifique,
+ Institut de Biologie Moleculaire des Plantes, UPR 2357, Conventionne avec
+ l'Universite de Strasbourg Strasbourg, France." } ,
+                    {
+                      name
+                        name {
+                          last "Nomine" ,
+                          initials "Y." } ,
+                      affil
+                        str "Biotechnologie et Signalisation cellulaire,
+ Institut de Recherche de l'Ecole de Biotechnologie de Strasbourg, UMR 7242,
+ Universite de Strasbourg Illkirch, France." } ,
+                    {
+                      name
+                        name {
+                          last "Kieffer" ,
+                          initials "B." } ,
+                      affil
+                        str "Institut de Genetique et Biologie Moleculaire et
+ Cellulaire, Ecole Superieure de Biotechnologie de Strasbourg Illkirch,
+ France." } ,
+                    {
+                      name
+                        name {
+                          last "Schmit" ,
+                          initials "A.C." } ,
+                      affil
+                        str "Centre National de la Recherche Scientifique,
+ Institut de Biologie Moleculaire des Plantes, UPR 2357, Conventionne avec
+ l'Universite de Strasbourg Strasbourg, France." } ,
+                    {
+                      name
+                        name {
+                          last "Chaboute" ,
+                          initials "M.E." } ,
+                      affil
+                        str "Centre National de la Recherche Scientifique,
+ Institut de Biologie Moleculaire des Plantes, UPR 2357, Conventionne avec
+ l'Universite de Strasbourg Strasbourg, France." } } } ,
+              from
+                journal {
+                  title {
+                    iso-jta "Front Plant Sci" ,
+                    ml-jta "Front Plant Sci" ,
+                    issn "1664-462X" ,
+                    name "Frontiers in plant science" } ,
+                  imp {
+                    date
+                      std {
+                        year 2013 ,
+                        month 11 ,
+                        day 27 } ,
+                    volume "4" ,
+                    pages "480" ,
+                    language "eng" ,
+                    pubstatus epublish ,
+                    history {
+                      {
+                        pubstatus received ,
+                        date
+                          std {
+                            year 2013 ,
+                            month 9 ,
+                            day 30 } } ,
+                      {
+                        pubstatus accepted ,
+                        date
+                          std {
+                            year 2013 ,
+                            month 11 ,
+                            day 5 } } ,
+                      {
+                        pubstatus pubmed ,
+                        date
+                          std {
+                            year 2013 ,
+                            month 12 ,
+                            day 19 ,
+                            hour 6 ,
+                            minute 0 } } ,
+                      {
+                        pubstatus medline ,
+                        date
+                          std {
+                            year 2013 ,
+                            month 12 ,
+                            day 19 ,
+                            hour 6 ,
+                            minute 1 } } } } } ,
+              ids {
+                pubmed 24348487 ,
+                other {
+                  db "pmc" ,
+                  tag
+                    str "PMC3842039" } ,
+                doi "10.3389/fpls.2013.00480" ,
+                other {
+                  db "ELocationID pii" ,
+                  tag
+                    str "480" } ,
+                other {
+                  db "ELocationID doi" ,
+                  tag
+                    str "10.3389/fpls.2013.00480" } } } } ,
+          comment "INTERACTION WITH GIP1." } ,
+        comment "[FUNCTION] Required for gamma-tubulin complex recruitment to
+ the microtubule organizing centers (MTOCs) (By similarity). During mitosis,
+ modulates gamma-tubulin complex localization, spindle stability and
+ chromosomal segregation. Necessary for gametophyte development and
+ embryogenesis. {ECO:0000250}." ,
+        comment "[SUBUNIT] Part of the gamma-tubulin complex. Interacts with
+ GIP1 and GCP3. {ECO:0000269|PubMed:22404201, ECO:0000269|PubMed:22427335,
+ ECO:0000269|PubMed:24348487}." ,
+        comment "[SUBCELLULAR LOCATION] Cytoplasm, cytoskeleton, microtubule
+ organizing center {ECO:0000250|UniProtKB:Q08AG7}. Cytoplasm, cytoskeleton,
+ spindle. Nucleus. Cytoplasm, cytoskeleton, phragmoplast. Nucleus envelope.
+ Note=Reorganized from the nucleus to the prospindle and the preprophase band
+ in late G2. After nuclear envelope breakdown, localized on spindle and
+ phragmoplast microtubules (MTs) and on the reforming nuclear envelope of
+ daughter cells. Present in mitotic microtubule arrays. In interphase cortical
+ arrays, gamma-tubulin complexes are preferentially recruited to existing
+ microtubules, from which new microtubules are efficiently nucleated." ,
+        comment "[TISSUE SPECIFICITY] Mostly expressed in siliques and
+ flowers, and, to a lower extent, in leaves, roots and seedlings, with highest
+ levels in young tissues, meristematic cells, and the vasculature.
+ {ECO:0000269|PubMed:22404201, ECO:0000269|PubMed:22427335}." ,
+        comment "[DISRUPTION PHENOTYPE] In the gip1 gip2 double mutants,
+ embryonic lethality and impaired development of male gametophytes, severe
+ growth defects and sterility, characterized by microtubule (MT)
+ misorganization and abnormal spindle polarity, resulting in ploidy defects.
+ {ECO:0000269|PubMed:22404201, ECO:0000269|PubMed:22427335}." ,
+        comment "[SIMILARITY] Belongs to the MOZART1 family. {ECO:0000305}." ,
+        sp {
+          class standard ,
+          seqref {
+            gi 12324196 ,
+            gi 12324221 ,
+            gi 332189094 ,
+            gi 332197388 ,
+            gi 27754664 ,
+            gi 27754665 ,
+            gi 28393992 ,
+            gi 28393993 ,
+            gi 21405542 ,
+            gi 21555537 ,
+            gi 25406295 ,
+            gi 18410455 } ,
+          dbref {
+            {
+              db "AlphaFoldDB" ,
+              tag
+                str "Q9C9T3" } ,
+            {
+              db "SMR" ,
+              tag
+                str "Q9C9T3" } ,
+            {
+              db "BioGRID" ,
+              tag
+                str "28933" } ,
+            {
+              db "FunCoup" ,
+              tag
+                str "Q9C9T3" } ,
+            {
+              db "IntAct" ,
+              tag
+                str "Q9C9T3" } ,
+            {
+              db "STRING" ,
+              tag
+                str "3702.Q9C9T3" } ,
+            {
+              db "PaxDb" ,
+              tag
+                str "3702-AT1G73790.1" } ,
+            {
+              db "DNASU" ,
+              tag
+                str "843714" } ,
+            {
+              db "GeneID" ,
+              tag
+                str "843714" } ,
+            {
+              db "Gramene" ,
+              tag
+                str "AT1G73790.1" } ,
+            {
+              db "KEGG" ,
+              tag
+                str "ath:AT1G73790" } ,
+            {
+              db "Araport" ,
+              tag
+                str "AT1G73790" } ,
+            {
+              db "TAIR" ,
+              tag
+                str "AT1G73790" } ,
+            {
+              db "HOGENOM" ,
+              tag
+                str "CLU_160285_3_0_1" } ,
+            {
+              db "InParanoid" ,
+              tag
+                str "Q9C9T3" } ,
+            {
+              db "OMA" ,
+              tag
+                str "STNERYV" } ,
+            {
+              db "OrthoDB" ,
+              tag
+                str "48571at2759" } ,
+            {
+              db "PhylomeDB" ,
+              tag
+                str "Q9C9T3" } ,
+            {
+              db "CD-CODE" ,
+              tag
+                str "33FCD62D" } ,
+            {
+              db "PRO" ,
+              tag
+                str "PR:Q9C9T3" } ,
+            {
+              db "Proteomes" ,
+              tag
+                str "UP000006548" } ,
+            {
+              db "ExpressionAtlas" ,
+              tag
+                str "Q9C9T3" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0000930" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0000931" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0031021" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0005874" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0005635" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0009524" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0005819" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0042393" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0034080" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0033566" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0051415" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0051418" } ,
+            {
+              db "GO" ,
+              tag
+                str "GO:0090307" } ,
+            {
+              db "InterPro" ,
+              tag
+                str "IPR022214" } ,
+            {
+              db "PANTHER" ,
+              tag
+                str "PTHR28520" } ,
+            {
+              db "PANTHER" ,
+              tag
+                str "PTHR28520:SF2" } ,
+            {
+              db "Pfam" ,
+              tag
+                str "PF12554" } } ,
+          keywords {
+            "Cytoplasm" ,
+            "Cytoskeleton" ,
+            "Microtubule" ,
+            "Nucleus" ,
+            "Reference proteome" } ,
+          created
+            std {
+              year 2009 ,
+              month 3 ,
+              day 3 } ,
+          sequpd
+            std {
+              year 2001 ,
+              month 6 ,
+              day 1 } ,
+          annotupd
+            std {
+              year 2026 ,
+              month 1 ,
+              day 28 } } ,
+        create-date
+          std {
+            year 2009 ,
+            month 3 ,
+            day 3 } ,
+        update-date
+          std {
+            year 2026 ,
+            month 1 ,
+            day 28 } } ,
+      inst {
+        repr raw ,
+        mol aa ,
+        length 67 ,
+        seq-data
+          ncbieaa "MNQEAAETARESLELVFRMSNILETGLDRHTLSVLIALCDIGLNPEALATLVKELRRDS
+ATTTTTVD" ,
+        hist {
+          replaces {
+            date
+              std {
+                year 2005 ,
+                month 9 ,
+                day 14 } ,
+            ids {
+              gi 25406295 } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                data
+                  region "Mature chain" ,
+                comment "Mitotic-spindle organizing protein 1A.
+ /id=PRO_0000365719." ,
+                location
+                  int {
+                    from 0 ,
+                    to 66 ,
+                    id
+                      gi 75169777 } } ,
+              {
+                data
+                  gene {
+                    locus "GIP2" ,
+                    syn {
+                      "GIP1A" ,
+                      "F25P22.21" } ,
+                    locus-tag "At1g73790" } ,
+                location
+                  int {
+                    from 0 ,
+                    to 66 ,
+                    id
+                      gi 75169777 } } ,
+              {
+                data
+                  prot {
+                    name {
+                      "Mitotic-spindle organizing protein 1A" ,
+                      "GCP3-interacting protein 2" ,
+                      "Mitotic-spindle organizing protein associated with a
+ ring of gamma-tubulin 1A" ,
+                      "AtGIP2" ,
+                      "AtGIP1A" } } ,
+                location
+                  int {
+                    from 0 ,
+                    to 66 ,
+                    id
+                      gi 75169777 } ,
+                qual {
+                  {
+                    qual "UniProtKB_evidence" ,
+                    val "Evidence at protein level" } } } } } } } } }
